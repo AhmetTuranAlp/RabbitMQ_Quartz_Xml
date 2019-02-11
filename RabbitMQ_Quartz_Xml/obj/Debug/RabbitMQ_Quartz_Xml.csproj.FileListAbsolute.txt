@@ -18,3 +18,27 @@ C:\Users\Ahmet Turan Alp\Documents\Github -Projects\RabbitMQ_Quartz_Xml\RabbitMQ
 C:\Users\Ahmet Turan Alp\Documents\Github -Projects\RabbitMQ_Quartz_Xml\RabbitMQ_Quartz_Xml\bin\Debug\RabbitMQ.Client.xml
 C:\Users\Ahmet Turan Alp\Documents\Github -Projects\RabbitMQ_Quartz_Xml\RabbitMQ_Quartz_Xml\obj\Debug\RabbitMQ_Quartz_Xml.exe
 C:\Users\Ahmet Turan Alp\Documents\Github -Projects\RabbitMQ_Quartz_Xml\RabbitMQ_Quartz_Xml\obj\Debug\RabbitMQ_Quartz_Xml.pdb
+C:\Users\Yceo\Desktop\asd\RabbitMQ_Quartz_Xml-master\RabbitMQ_Quartz_Xml-master\RabbitMQ_Quartz_Xml\bin\Debug\RabbitMQ_Quartz_Xml.exe.config
+C:\Users\Yceo\Desktop\asd\RabbitMQ_Quartz_Xml-master\RabbitMQ_Quartz_Xml-master\RabbitMQ_Quartz_Xml\bin\Debug\RabbitMQ_Quartz_Xml.exe
+C:\Users\Yceo\Desktop\asd\RabbitMQ_Quartz_Xml-master\RabbitMQ_Quartz_Xml-master\RabbitMQ_Quartz_Xml\bin\Debug\RabbitMQ_Quartz_Xml.pdb
+C:\Users\Yceo\Desktop\asd\RabbitMQ_Quartz_Xml-master\RabbitMQ_Quartz_Xml-master\RabbitMQ_Quartz_Xml\bin\Debug\Common.Logging.Core.dll
+C:\Users\Yceo\Desktop\asd\RabbitMQ_Quartz_Xml-master\RabbitMQ_Quartz_Xml-master\RabbitMQ_Quartz_Xml\bin\Debug\Common.Logging.dll
+C:\Users\Yceo\Desktop\asd\RabbitMQ_Quartz_Xml-master\RabbitMQ_Quartz_Xml-master\RabbitMQ_Quartz_Xml\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+C:\Users\Yceo\Desktop\asd\RabbitMQ_Quartz_Xml-master\RabbitMQ_Quartz_Xml-master\RabbitMQ_Quartz_Xml\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Yceo\Desktop\asd\RabbitMQ_Quartz_Xml-master\RabbitMQ_Quartz_Xml-master\RabbitMQ_Quartz_Xml\bin\Debug\Quartz.dll
+C:\Users\Yceo\Desktop\asd\RabbitMQ_Quartz_Xml-master\RabbitMQ_Quartz_Xml-master\RabbitMQ_Quartz_Xml\bin\Debug\RabbitMQ.Client.dll
+C:\Users\Yceo\Desktop\asd\RabbitMQ_Quartz_Xml-master\RabbitMQ_Quartz_Xml-master\RabbitMQ_Quartz_Xml\bin\Debug\Common.Logging.pdb
+C:\Users\Yceo\Desktop\asd\RabbitMQ_Quartz_Xml-master\RabbitMQ_Quartz_Xml-master\RabbitMQ_Quartz_Xml\bin\Debug\Common.Logging.xml
+C:\Users\Yceo\Desktop\asd\RabbitMQ_Quartz_Xml-master\RabbitMQ_Quartz_Xml-master\RabbitMQ_Quartz_Xml\bin\Debug\Common.Logging.Core.pdb
+C:\Users\Yceo\Desktop\asd\RabbitMQ_Quartz_Xml-master\RabbitMQ_Quartz_Xml-master\RabbitMQ_Quartz_Xml\bin\Debug\Common.Logging.Core.xml
+C:\Users\Yceo\Desktop\asd\RabbitMQ_Quartz_Xml-master\RabbitMQ_Quartz_Xml-master\RabbitMQ_Quartz_Xml\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+C:\Users\Yceo\Desktop\asd\RabbitMQ_Quartz_Xml-master\RabbitMQ_Quartz_Xml-master\RabbitMQ_Quartz_Xml\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Yceo\Desktop\asd\RabbitMQ_Quartz_Xml-master\RabbitMQ_Quartz_Xml-master\RabbitMQ_Quartz_Xml\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Yceo\Desktop\asd\RabbitMQ_Quartz_Xml-master\RabbitMQ_Quartz_Xml-master\RabbitMQ_Quartz_Xml\bin\Debug\Quartz.pdb
+C:\Users\Yceo\Desktop\asd\RabbitMQ_Quartz_Xml-master\RabbitMQ_Quartz_Xml-master\RabbitMQ_Quartz_Xml\bin\Debug\Quartz.xml
+C:\Users\Yceo\Desktop\asd\RabbitMQ_Quartz_Xml-master\RabbitMQ_Quartz_Xml-master\RabbitMQ_Quartz_Xml\bin\Debug\RabbitMQ.Client.xml
+C:\Users\Yceo\Desktop\asd\RabbitMQ_Quartz_Xml-master\RabbitMQ_Quartz_Xml-master\RabbitMQ_Quartz_Xml\obj\Debug\RabbitMQ_Quartz_Xml.csprojAssemblyReference.cache
+C:\Users\Yceo\Desktop\asd\RabbitMQ_Quartz_Xml-master\RabbitMQ_Quartz_Xml-master\RabbitMQ_Quartz_Xml\obj\Debug\RabbitMQ_Quartz_Xml.csproj.CoreCompileInputs.cache
+C:\Users\Yceo\Desktop\asd\RabbitMQ_Quartz_Xml-master\RabbitMQ_Quartz_Xml-master\RabbitMQ_Quartz_Xml\obj\Debug\RabbitMQ_Quartz_Xml.csproj.CopyComplete
+C:\Users\Yceo\Desktop\asd\RabbitMQ_Quartz_Xml-master\RabbitMQ_Quartz_Xml-master\RabbitMQ_Quartz_Xml\obj\Debug\RabbitMQ_Quartz_Xml.exe
+C:\Users\Yceo\Desktop\asd\RabbitMQ_Quartz_Xml-master\RabbitMQ_Quartz_Xml-master\RabbitMQ_Quartz_Xml\obj\Debug\RabbitMQ_Quartz_Xml.pdb
